@@ -1,0 +1,14 @@
+scopeconfig:
+  - scope: node
+fileignoreconfig:
+- filename: public/index.html
+  checksum: 969624b748cb92c3bd2195c61a9c311519331918fd8be7c21d50f8955b7e816c
+- filename: src/components/course/AllCourses.js
+  checksum: d6ec51e7adead2424a672ed96b7f5d3b6983c1f5669f004b922f2f764b8f298e
+- filename: src/components/course/MyCourses.js
+  checksum: baf48a3b35c674322ff4b0e63b99c25c9f43c8fe3213b6b1dc700ed602aaabe3
+- filename: src/components/Login/Login.js
+  checksum: 3adaafdf7c4c84d02b25f432074b2859a448f1afc8e4be294286390eaa0162b5
+- filename: src/components/Register/Register.js
+  checksum: 77e33d8b180fc07638f9d4687dcffb3f4ef806662ae8c98f391df43b018a21a5
+version: ""
