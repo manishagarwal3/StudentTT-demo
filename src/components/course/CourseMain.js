@@ -1,12 +1,7 @@
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import Form from 'react-bootstrap/Form';
-import FormControl from 'react-bootstrap/FormControl';
-import Button from 'react-bootstrap/Button';
 import React, { Component, useState } from "react";
-import { render } from "react-dom";
 import AllCourses from './AllCourses';
 import MyCourses from './MyCourses';
 import Timetable from './Timetable';
