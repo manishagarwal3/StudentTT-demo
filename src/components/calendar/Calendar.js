@@ -87,7 +87,7 @@ class Calendar extends Component {
     const {...config} = this.state;
     return (
       <div style={styles.wrap}>
-        <div style={styles.left}>
+        {/* <div style={styles.left}>
           <DayPilotNavigator
             selectMode={"week"}
             showMonths={3}
@@ -100,7 +100,7 @@ class Calendar extends Component {
               });
             }}
           />
-        </div>
+        </div> */}
         <div style={styles.main}>
         <DayPilotCalendar
           {...config}

@@ -6,7 +6,7 @@ import AllCourses from './AllCourses';
 import MyCourses from './MyCourses';
 import Timetable from './Timetable';
 import { getCourses } from "../../services/courseDetails";
-import Calendar from "../calendar/Calendar";
+import Calendar from "../calendarr/Calendar";
 
 
 const CourseMain = () => {
